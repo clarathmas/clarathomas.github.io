@@ -1,0 +1,98 @@
+h1 { color: #1abc9c; font-family: Times ; }
+span { color: #e67e22; }
+.span-bold {
+	font-weight: bold;
+	background: green 
+}
+
+.Bouton {
+	font-family: 'Lato', sans-serif;
+	font-weight: 100;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: white;
+	border: solid 1px;
+	border-radius: 4px;
+	padding: 10px 30px;
+	background-color: #1abc9c
+
+
+}
+
+a:hover {
+	background-color: #2980b9;
+
+}
+
+
+
+.frame {
+border: 2px solid black ; 
+margin-top: 25px;
+margin-left: 500px;
+margin-right: 500px;
+padding: 5px;
+}
+body {background: white; text-align: center; }
+ul	{text-align: left; }
+
+
+
+.navbar	{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background: #000000;
+
+	}
+
+.item {
+	display: flex;
+	justify-content: flex-end;
+	}
+
+.item {
+	margin: 10px 30px;
+	color: #FFFFFF;
+	font-family: courrier
+	}
+
+.item {
+	color: #FFFFFF;
+	font-family: courrier
+	}
+
+
+h3	{ display: flex;justify-content: center;
+	}
+
+p { margin-left: 200px; margin-right: 200px;}
+
+ul { margin-left: 200px; margin-right: 200px;
+}
+
+.logo { width: : 170px
+}
+
+
+.menu { display: flex;
+	}
+
+#boxes {float: left ; clear: all;
+	}
+
+	.logo-instagram { display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+	}
+
+	.logo-twitter { display: flex; align-items: left; text-align: center;
+	}
+
+
+	.logo-facebook { display: flex; align-items: left;
+	}
+
+
+	}
