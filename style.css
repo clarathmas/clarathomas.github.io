@@ -102,3 +102,53 @@ ul { margin-left: 200px; margin-right: 200px;
 .BoutonMail { display: flex; justify-content: center;
 
 	}
+
+
+
+.drapeau {
+    background: grey;
+    height: 40px;
+    width: 75px;
+    display: flex; 
+    justify-content: center;
+ 
+    }
+
+ 
+
+.blue {
+    background: #3498db;
+    height: 40px;
+    width: 25px;
+
+ 
+
+    }
+
+ 
+
+
+.white {
+    background: white;
+    height: 40px;
+    width: 25px;
+
+ 
+
+    }
+
+
+.red {
+    background: #e74c3c;
+    height: 40px;
+    width: 25px;
+
+ 
+
+    }
+
+
+
+
+
+
